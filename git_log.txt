@@ -1,0 +1,6 @@
+708e36a Personalize hello message
+5e32c77 Add hello_git.py
+989dcc9 Complete problem2 Temperature Converter
+8d80c34 Add my name and date
+7bcb689 Add GitHub Classroom autograding configuration
+2dc2daa Initial commit
